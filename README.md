@@ -1,5 +1,6 @@
 # recommender
-Desktop program to demonstrate recommendation algorithms.
+Desktop program to demonstrate recommendation algorithms. 
+Song recommendation system using various AI methods realized for competition (subject) - a group project. It was implemented by me and three of my team members.
 
 # Requirements
 To install required packages
