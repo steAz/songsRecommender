@@ -5,7 +5,7 @@ class SampleDownloader:
         self.testUrl = "https://cdns-preview-9.dzcdn.net/stream/c-92d5bbb148445d41dc7be319744f1691-4.mp3"
 
         self.apiKeyHeaderKey = "x-rapidapi-key"
-        self.apiKeyHeaderValue = "b5264b2c71mshf1c19fd9fd30ba4p17b725jsna13beb3023ee"
+        self.apiKeyHeaderValue = "type_key_here"
         self.hostHeaderKey = "x-rapidapi-host"
         self.hostHeaderValue =  "deezerdevs-deezer.p.rapidapi.com"
         self.searchUrl = "https://deezerdevs-deezer.p.rapidapi.com/search"
